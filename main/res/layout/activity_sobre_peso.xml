@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_sobre_peso"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.volibear.ejercicio_002.SobrePeso">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/sobrePeso"
+        android:text="Tu IMC esta sobre pasado lo recomendable es empezar a activarse haciendo ejercicio
+                      por lo menos 30 min al dia al igual de llevar una buena dieta basada en el plato del buen comer
+                      comiendo solo tres veces al dia"/>
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/gordito1"
+        android:src="@drawable/image3"/>
+
+</RelativeLayout>

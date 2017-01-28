@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="boton1">Show info Person</string>
+    <string name="boton2">Errearse data</string>
+    <string name="botonLeng">Change Lenguaje</string>
+    <string name="ejercicio">Exercise?</string>
+    <string name="estatura">Length in Mts.</string>
+    <string name="hombre">Men</string>
+    <string name="mujer">Woman</string>
+    <string name="nombre">Name of Person</string>
+    <string name="peso">Wheid in Kg.</string>
+    <string name="resultado">Dates of Person</string>
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+</resources>

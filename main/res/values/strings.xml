@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Clase Persona</string>
+    <string name="nombre">Nombre de la persona: </string>
+    <string name="boton1">Mostrar Datos de la Persona</string>
+    <string name="botonLeng">Cambiar Idioma</string>
+    <string name="resultado">Datos de la Persona</string>
+    <string name="mujer">Mujer</string>
+    <string name="hombre">Hombre</string>
+    <string name="ejercicio">Realiza Ejercicio Diariamente</string>
+    <string name="estatura">Estatura en Metros</string>
+    <string name="peso">Peso en Kg</string>
+    <string name="boton2">Borrar Datos</string>
+    <string name="str_en">English</string>
+    <string name="str_es">Spanish</string>
+    <string name="bot">Salir</string>
+    <string-array name="languages">
+        <item>@string/str_en</item>
+        <item>@string/str_es</item>
+    </string-array>
+</resources>
